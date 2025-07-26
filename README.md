@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm RUTUJA</h1>
 
-<!--
-**Alohomoraaaaa/Alohomoraaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Creative Tech Explorer | Problem Solver 🧠 <br>
+ • 📊 Data Viz • 🎨 UI/UX Design
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 3rd Year CS Engineering | 
+- 🎨 I blend **design** & **logic** using tools like Figma, Canva, and Tableau
+- 💡 Learning and improving!
+
+---
+
+### 💼 Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B" />
+<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=tableau" />
+<img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma" />
+<img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rutuja-n&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutuja-n&theme=radical" width="49%" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p>
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
