@@ -35,8 +35,8 @@ Creative Tech Explorer | Problem Solver 🧠 <br>
 ### 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rutuja-n&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutuja-n&theme=radical" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alohomoraaaaa&theme=radical&show_icons=true" width="49%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Alohomoraaaaa&theme=radical" width="49%" />
 </p>
 
 ---
