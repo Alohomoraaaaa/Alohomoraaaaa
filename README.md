@@ -17,17 +17,20 @@ Creative Tech Explorer | Problem Solver 🧠 <br>
 ### 💼 Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" />
-<img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c" />
-<img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B" />
-<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=tableau" />
-<img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma" />
-<img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=tableau" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode" width="150" height="40"/>
 </p>
 
 ---
