@@ -17,20 +17,20 @@ Creative Tech Explorer | Problem Solver 🧠 <br>
 ### 💼 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=tableau" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" width="150" height="40"/>
-  <img src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="150" height="40"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="150" height="40"/>
 </p>
 
 ---
