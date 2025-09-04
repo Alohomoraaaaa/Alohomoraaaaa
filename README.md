@@ -2,13 +2,13 @@
 
 <p align="center">
 Creative Tech Explorer | Problem Solver 🧠 <br>
- • 📊 Data Viz • 🎨 UI/UX Design
+ • 📊 Data Viz • 🎨 UI/UX Design • 🌐 Web Dev
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 3rd Year CS Engineering | 
+## 🚀 About Me
+- 🎓 3rd Year CS Engineering 
 - 🎨 I blend **design** & **logic** using tools like Figma, Canva, and Tableau
 - 💡 Learning and improving!
 
