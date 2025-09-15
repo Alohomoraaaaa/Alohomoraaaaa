@@ -42,18 +42,31 @@ Creative Tech Explorer | Problem Solver 🧠 <br>
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Alohomoraaaaa&theme=radical" width="49%" />
 </p>
 
----
+
 
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alohomoraaaaa&theme=radical&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alohomoraaaaa&layout=compact&theme=radical" />
+</p>
+
 ---
 
 ### 📫 Let's Connect!
 <p>
-  <a href="https://www.linkedin.com/in/rutuja-nangare-565123269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="rutujaaaaa5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;&nbsp;<a href="https://www.linkedin.com/in/rutuja-nangare-565123269/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+ &nbsp;&nbsp;
+  <a href="mailto:rutujaaaaa5@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
