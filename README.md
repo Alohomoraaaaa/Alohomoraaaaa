@@ -44,6 +44,12 @@ Creative Tech Explorer | Problem Solver 🧠 <br>
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alohomoraaaaa&theme=radical&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📫 Let's Connect!
 <p>
   <a href="https://www.linkedin.com/in/rutuja-nangare-565123269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
