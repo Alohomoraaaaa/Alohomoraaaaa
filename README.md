@@ -9,7 +9,7 @@ Creative Tech Explorer | Problem Solver 🧠 <br>
 
 ## 🚀 About Me
 - 🎓 3rd Year CS Engineering 
-- 🎨 I blend **design** & **logic** using tools like Figma, Canva, and Tableau
+- 🎨 I blend **design** & **logic**
 - 💡 Learning and improving!
 
 ---
