@@ -2,7 +2,7 @@
 
 <p align="center">
 Creative Tech Explorer | Problem Solver 🧠 <br>
- • 📊 Data Viz • 🎨 UI/UX Design • 🌐 Web Dev
+ • 📊 Data Viz  • 🌐 Web Dev
 </p>
 
 ---
