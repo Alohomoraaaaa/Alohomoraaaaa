@@ -3,17 +3,16 @@
 </h1>
 
 <p align="center">
-Creative Tech Explorer | Problem Solver 🧠 <br>
-• 📊 Data Viz  • 🌐 Web Dev
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 3rd Year CS Engineering
-* 🎨 I blend **design** & **logic**
-* 💡 Learning and improving!
+* Final Year CS Engineering
+* I blend **design** & **logic**
+* Computer Engineering Student | Full-Stack Web Development, Data Analytics & Machine Learning Enthusiast
+* Skilled in Python, SQL, BI Tools, Machine Learning & Data Visualization.
 
 ---
 
