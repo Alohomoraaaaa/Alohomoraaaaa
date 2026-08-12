@@ -11,7 +11,7 @@
 
 * Penultimate semester CS Engineering
 * I blend **design** & **logic**
-* Computer Engineering Student | Full-Stack Web Development, Data Analytics & Machine Learning Enthusiast
+* Computer Engineering Student | Data Analytics, Web Development & Machine Learning Enthusiast
 * Skilled in Python, SQL, BI Tools, Machine Learning & Data Visualization.
 
 ---
